@@ -19,4 +19,4 @@ Later commits or branches are my own attempts to upgrade the idea.
 - game menu?
 - different size
 - different amount of tiles
-- random card picture (http://lorempixel.com/100/100/cats/) (creepy version with specific gifs? :D - https://giphy.com/explore/random)
+- random 'mole' picture (http://lorempixel.com/100/100/cats/) (funny version with specific gifs? :D - https://giphy.com/explore/random)
